@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>I'm Roman, <b>Technical Founder & AI Product Engineer</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Moscow, Russia</b>.</br>
-After 10+ years in product & growth at Yandex, VK, and OZON, I went all-in on building AI-powered products. I understand business logic and build like an engineer.</p>
+<p>I'm Roman, <b>Technical Founder & AI Product Engineer</b>.</br>
+After 10+ years in product & growth, I went all-in on building AI-powered products. I understand business logic and build like an engineer.</p>
 
 <h3>Things I build with</h3>
 
