@@ -84,7 +84,6 @@ After 10+ years in product & growth, I went all-in on building AI-powered produc
         <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
         <img alt="Deno" src="https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white" />
-        <img alt="Mapbox" src="https://img.shields.io/badge/-Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
         <img alt="Claude" src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
       </p>
     </td>
@@ -95,8 +94,6 @@ After 10+ years in product & growth, I went all-in on building AI-powered produc
       <p><b>Tech blog about AI engineering</b> — deep dives into LLM orchestration, edge functions, context engineering, and building production AI systems. Written from the trenches.</p>
       <p>
         <img alt="Astro" src="https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
-        <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-        <img alt="MDX" src="https://img.shields.io/badge/-MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -107,8 +104,6 @@ After 10+ years in product & growth, I went all-in on building AI-powered produc
       <p>
         <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-        <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
       </p>
     </td>
   </tr>
