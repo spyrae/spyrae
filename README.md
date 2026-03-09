@@ -110,7 +110,7 @@ After 10+ years in product & growth, I went all-in on building AI-powered produc
   <tr>
     <td width="100%">
       <h4><a href="https://proxycraft.tech?utm_source=github&utm_campaign=github-profile&utm_content=readme">ProxyCraft</a></h4>
-      <p><b>Personal VPN service</b> — self-hosted WireGuard and VLESS proxies across multiple locations. Built for privacy, speed, and censorship resistance.</p>
+      <p><b>VPN & proxy service</b> — secure tunnels worldwide. Private by design, fast by default.</p>
       <p>
         <img alt="WireGuard" src="https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" />
         <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
