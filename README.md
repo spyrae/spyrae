@@ -78,7 +78,7 @@ After 10+ years in product & growth, I went all-in on building AI-powered produc
 <table>
   <tr>
     <td width="100%">
-      <h4><a href="https://journeybay.co">JourneyBay</a></h4>
+      <h4><a href="https://journeybay.co?utm_source=github&utm_campaign=github-profile&utm_content=readme">JourneyBay</a></h4>
       <p><b>AI-first travel planner</b> — itinerary generation, POI scoring, real-time recommendations, and an AI chat assistant that knows everything about your trip.</p>
       <p>
         <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
@@ -90,7 +90,7 @@ After 10+ years in product & growth, I went all-in on building AI-powered produc
   </tr>
   <tr>
     <td width="100%">
-      <h4><a href="https://futurecraft.pro">FutureCraft</a></h4>
+      <h4><a href="https://futurecraft.pro?utm_source=github&utm_campaign=github-profile&utm_content=readme">FutureCraft</a></h4>
       <p><b>Tech blog about AI engineering</b> — deep dives into LLM orchestration, edge functions, context engineering, and building production AI systems. Written from the trenches.</p>
       <p>
         <img alt="Astro" src="https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
@@ -99,10 +99,22 @@ After 10+ years in product & growth, I went all-in on building AI-powered produc
   </tr>
   <tr>
     <td width="100%">
-      <h4><a href="https://forgecraft.io">ForgeCraft</a></h4>
+      <h4><a href="https://forgecraft.io?utm_source=github&utm_campaign=github-profile&utm_content=readme">ForgeCraft</a></h4>
       <p><b>Managed hosting for AI agents</b> — choose your agent, connect Telegram, start chatting. No servers, no Docker, no DevOps. Infrastructure, updates, and 24/7 monitoring included.</p>
       <p>
         <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+        <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h4><a href="https://proxycraft.tech?utm_source=github&utm_campaign=github-profile&utm_content=readme">ProxyCraft</a></h4>
+      <p><b>Personal VPN service</b> — self-hosted WireGuard and VLESS proxies across multiple locations. Built for privacy, speed, and censorship resistance.</p>
+      <p>
+        <img alt="WireGuard" src="https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" />
+        <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+        <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
     </td>
