@@ -99,16 +99,6 @@ After 10+ years in product & growth, I went all-in on building AI-powered produc
   </tr>
   <tr>
     <td width="100%">
-      <h4><a href="https://forgecraft.io?utm_source=github&utm_campaign=github-profile&utm_content=readme">ForgeCraft</a></h4>
-      <p><b>Managed hosting for AI agents</b> — choose your agent, connect Telegram, start chatting. No servers, no Docker, no DevOps. Infrastructure, updates, and 24/7 monitoring included.</p>
-      <p>
-        <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-        <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%">
       <h4><a href="https://proxycraft.tech?utm_source=github&utm_campaign=github-profile&utm_content=readme">ProxyCraft</a></h4>
       <p><b>VPN & proxy service</b> — secure tunnels worldwide. Private by design, fast by default.</p>
       <p>
