@@ -97,16 +97,24 @@ After 10+ years in product & growth, I went all-in on building AI-powered produc
       </p>
     </td>
   </tr>
+</table>
+
+<h3>Open source</h3>
+
+<table>
   <tr>
-    <td width="100%">
-      <h4><a href="https://proxycraft.tech?utm_source=github&utm_campaign=github-profile&utm_content=readme">ProxyCraft</a></h4>
-      <p><b>VPN & proxy service</b> — secure tunnels worldwide. Private by design, fast by default.</p>
+    <td width="50%">
+      <h4><a href="https://github.com/spyrae/proxycraft">ProxyCraft</a></h4>
+      <p>VPN & proxy service via Telegram bot. VLESS+Reality, MTProto, WhatsApp proxy, 6 payment gateways, admin panel, landing page.</p>
       <p>
-        <img alt="WireGuard" src="https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" />
-        <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-        <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+        <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img alt="Astro" src="https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
       </p>
+    </td>
+    <td width="50%">
+      <!-- next project slot -->
     </td>
   </tr>
 </table>
