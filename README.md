@@ -86,6 +86,10 @@ After 10+ years in product & growth, I went all-in on building AI-powered produc
         <img alt="Deno" src="https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white" />
         <img alt="Claude" src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
       </p>
+      <p>
+        <a href="https://apps.apple.com/us/app/journeybay/id6759391883?utm_source=github&utm_medium=profile&utm_campaign=app_download&utm_content=readme"><img alt="App Store" src="https://img.shields.io/badge/-App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" /></a>
+        <a href="https://journeybay.co?utm_source=github&utm_campaign=github-profile&utm_content=readme"><img alt="Website" src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=safari&logoColor=white" /></a>
+      </p>
     </td>
   </tr>
   <tr>
