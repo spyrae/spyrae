@@ -107,41 +107,22 @@ After 10+ years in product & growth, I went all-in on building AI-powered produc
 <table>
   <tr>
     <td width="50%">
-      <h4><a href="https://github.com/spyrae/gemini-plugin-cc">Gemini Plugin CC</a>&nbsp;&nbsp;<img alt="Official Claude Code Plugin" src="https://img.shields.io/badge/Official_Claude_Code_Plugin-d97706?style=flat-square" /></h4>
-      <p>Use Gemini CLI from Claude Code to review code and delegate tasks. Published in the Claude Code Plugin Marketplace.</p>
-      <p>
-        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img alt="Claude Code" src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-        <img alt="Gemini" src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" />
-      </p>
+      <h4><a href="https://github.com/spyrae/gemini-plugin-cc">Gemini Plugin CC</a>&nbsp;&nbsp;<img alt="Official Claude Code Plugin" src="https://img.shields.io/badge/Official_Claude_Code_Plugin-d97706?style=round-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDIwIDIwIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTAgMThhOCA4IDAgMSAwIDAtMTYgOCA4IDAgMCAwIDAgMTZabTMuODU3LTkuODA5YS43NS43NSAwIDAgMC0xLjIxNC0uODgybC0zLjQ4MyA0Ljc5LTEuODgtMS44OGEuNzUuNzUgMCAxIDAtMS4wNiAxLjA2MWwyLjUgMi41YS43NS43NSAwIDAgMCAxLjEzNy0uMDg5bDQtNS41WiIgY2xpcC1ydWxlPSJldmVub2RkIi8+PC9zdmc+" /></h4>
+      <p>Use Gemini CLI from Claude Code to review code and delegate tasks.</p>
     </td>
     <td width="50%">
       <h4><a href="https://github.com/spyrae/proxycraft">ProxyCraft</a></h4>
       <p>VPN & proxy service via Telegram bot. VLESS+Reality, MTProto, WhatsApp proxy, 6 payment gateways, admin panel, landing page.</p>
-      <p>
-        <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-        <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img alt="Astro" src="https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
-      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h4><a href="https://github.com/spyrae/claude-concilium">Claude Concilium</a></h4>
       <p>Multi-agent AI consultation framework for Claude Code via MCP — second opinions from OpenAI, Gemini, Qwen, DeepSeek.</p>
-      <p>
-        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img alt="MCP" src="https://img.shields.io/badge/-MCP-5E6AD2?style=flat-square&logoColor=white" />
-      </p>
     </td>
     <td width="50%">
       <h4><a href="https://github.com/spyrae/truthguard">TruthGuard</a></h4>
       <p>Catches false claims from AI coding agents. Claude Code hooks + Gemini CLI verification.</p>
-      <p>
-        <img alt="Shell" src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-        <img alt="Gemini" src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" />
-      </p>
     </td>
   </tr>
 </table>
