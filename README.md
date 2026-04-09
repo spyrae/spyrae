@@ -107,7 +107,8 @@ After 10+ years in product & growth, I went all-in on building AI-powered produc
 <table>
   <tr>
     <td width="50%">
-      <h4><a href="https://github.com/spyrae/gemini-plugin-cc">Gemini Plugin CC</a>&nbsp;&nbsp;<img alt="Official Claude Code Plugin" src="https://img.shields.io/badge/Official_Claude_Code_Plugin-d97706?style=round-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDIwIDIwIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTAgMThhOCA4IDAgMSAwIDAtMTYgOCA4IDAgMCAwIDAgMTZabTMuODU3LTkuODA5YS43NS43NSAwIDAgMC0xLjIxNC0uODgybC0zLjQ4MyA0Ljc5LTEuODgtMS44OGEuNzUuNzUgMCAxIDAtMS4wNiAxLjA2MWwyLjUgMi41YS43NS43NSAwIDAgMCAxLjEzNy0uMDg5bDQtNS41WiIgY2xpcC1ydWxlPSJldmVub2RkIi8+PC9zdmc+" /></h4>
+      <h4><a href="https://github.com/spyrae/gemini-plugin-cc">Gemini Plugin CC</a></h4>
+      <p><img alt="Official Claude Code Plugin" src="https://img.shields.io/badge/%E2%9C%93_Official_Claude_Code_Plugin-d97706?style=flat-square" /></p>
       <p>Use Gemini CLI from Claude Code to review code and delegate tasks.</p>
     </td>
     <td width="50%">
