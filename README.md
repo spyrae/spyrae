@@ -87,7 +87,7 @@ After 10+ years in product & growth, I went all-in on building AI-powered produc
         <img alt="Claude" src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
       </p>
       <p>
-        <a href="https://apps.apple.com/us/app/journeybay/id6759391883?utm_source=github&utm_medium=profile&utm_campaign=app_download&utm_content=readme">App Store</a> · <a href="https://journeybay.co?utm_source=github&utm_campaign=github-profile&utm_content=readme">journeybay.co</a>
+        <a href="https://apps.apple.com/us/app/journeybay/id6759391883?utm_source=github&utm_medium=profile&utm_campaign=app_download&utm_content=readme">App Store</a> · <a href="https://play.google.com/store/apps/details?id=co.journeybay.app&utm_source=github&utm_medium=profile&utm_campaign=app_download&utm_content=readme">Google Play</a> · <a href="https://journeybay.co?utm_source=github&utm_campaign=github-profile&utm_content=readme">journeybay.co</a>
       </p>
     </td>
   </tr>
