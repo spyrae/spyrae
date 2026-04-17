@@ -112,8 +112,8 @@ After 10+ years in product & growth, I went all-in on building AI-powered produc
       <p>Use Gemini CLI from Claude Code to review code and delegate tasks.</p>
     </td>
     <td width="50%">
-      <h4><a href="https://github.com/spyrae/proxycraft">ProxyCraft</a></h4>
-      <p>VPN & proxy service via Telegram bot. VLESS+Reality, MTProto, WhatsApp proxy, 6 payment gateways, admin panel, landing page.</p>
+      <h4><a href="https://github.com/spyrae/harness-control-plane">Harness Control Plane</a></h4>
+      <p>Interactive visual map of your Claude Code ecosystem: skills, agents, MCP servers — auto-discovered from .claude/ config.</p>
     </td>
   </tr>
   <tr>
