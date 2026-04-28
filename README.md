@@ -122,8 +122,8 @@ After 10+ years in product & growth, I went all-in on building AI-powered produc
       <p>Multi-agent AI consultation framework for Claude Code via MCP — second opinions from OpenAI, Gemini, Qwen, DeepSeek.</p>
     </td>
     <td width="50%">
-      <h4><a href="https://github.com/spyrae/truthguard">TruthGuard</a></h4>
-      <p>Catches false claims from AI coding agents. Claude Code hooks + Gemini CLI verification.</p>
+      <h4><a href="https://github.com/spyrae/kronos-agent-os">Kronos Agent OS</a></h4>
+      <p>Self-hosted runtime for durable AI agents — fractal multi-agent orchestration, 6-layer memory, MCP tools, local dashboard.</p>
     </td>
   </tr>
 </table>
