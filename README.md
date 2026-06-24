@@ -137,6 +137,14 @@ After 10+ years in product & growth, I went all-in on building AI-powered produc
   <li><a href="https://futurecraft.pro/blog/maestro-flutter-e2e-testing/"><b>Maestro + Flutter: E2E Tests in YAML Without the Pain</b></a><br/><i>Production patterns for mobile testing — regex matchers, iOS quirks, and AI-powered assertions.</i></li>
 </ul>
 
+<h3>Contributions</h3>
+<ul>
+  <li><a href="https://github.com/p0deje/Maccy"><b>Maccy</b></a><br/></li>
+  <li><a href="https://github.com/raycast/extensions"><b>Raycast Extensions</b></a><br/></li>
+  <li><a href="https://github.com/chefrtm/solowhisper"><b>SoloWhisper</b></a><br/></li>
+  <li><a href="https://github.com/punkpeye/awesome-mcp-servers"><b>Awesome MCP Servers</b></a><br/></li>
+</ul>
+
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/spyrae" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
