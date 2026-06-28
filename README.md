@@ -143,6 +143,7 @@ After 10+ years in product & growth, I went all-in on building AI-powered produc
   <li><a href="https://github.com/raycast/extensions"><b>Raycast Extensions</b></a><br/></li>
   <li><a href="https://github.com/chefrtm/solowhisper"><b>SoloWhisper</b></a><br/></li>
   <li><a href="https://github.com/punkpeye/awesome-mcp-servers"><b>Awesome MCP Servers</b></a><br/></li>
+  <li><a href="https://github.com/ArunNGun/openTeleprompt"><b>OpenTeleprompt</b></a><br/></li>
 </ul>
 
 <h3>Where to find me</h3>
