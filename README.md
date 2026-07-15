@@ -3,6 +3,18 @@
 <p>I'm Roman, <b>Technical Founder & AI Product Engineer</b>.</br>
 After 10+ years in product & growth, I went all-in on building AI-powered products. I understand business logic and build like an engineer.</p>
 
+<table>
+  <tr>
+    <td width="150" align="center" valign="middle">
+      <a href="https://www.credly.com/badges/17b36862-0276-42f2-806d-255ff4c6b1cf/public_url"><img width="120" alt="Claude Partner Badge — Claude Code, issued by Anthropic" src="./assets/claude-partner-badge.png" /></a>
+    </td>
+    <td valign="middle">
+      <b>Now an official Anthropic partner.</b><br/>
+      Earned the <a href="https://www.credly.com/badges/17b36862-0276-42f2-806d-255ff4c6b1cf/public_url">Claude Partner Badge for Claude Code</a> — Claude Code is at the core of how I ship production AI, and this badge makes it official. <a href="https://www.credly.com/badges/17b36862-0276-42f2-806d-255ff4c6b1cf/public_url">Verified on Credly ↗</a>
+    </td>
+  </tr>
+</table>
+
 <h3>Things I build with</h3>
 
 <p>
